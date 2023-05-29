@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Full Stack Developer | Experienced in MERN | ex-Full Stack Intern at PDS and Sigma|🥇 in institute at GeeksforGeeks</h3>
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeevdash007&label=Profile%20views&color=0e75b6&style=flat" alt="rajeevdash007" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajeevdash007" alt="rajeevdash007" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rajeevdash47" target="blank"><img src="https://img.shields.io/twitter/follow/rajeevdash47?logo=twitter&style=for-the-badge" alt="rajeevdash47" /></a> </p>
