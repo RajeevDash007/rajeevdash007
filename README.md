@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Full Stack Developer | Experienced in MERN | ex-Full Stack Intern at PDS and Sigma|🥇 in institute at GeeksforGeeks</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on ACM XIM<br><br>🌱 I’m currently learning GrapgQL,NextJS<br><br>👨‍💻 All of my projects are available at https://rajeevdash007.github.io/RajeevLochanDash<br><br>📫 How to reach me rajeevdash07@gmail.com<br><br>
+🔭 I’m currently working on ACM XIM<br><br>🌱 I’m currently learning GraphQL and NextJS<br><br>👨‍💻 All of my projects are available at https://rajeevdash007.github.io/RajeevLochanDash<br><br>📫 How to reach me rajeevdash07@gmail.com<br><br>
 
 
 ## 🌐 Socials:
