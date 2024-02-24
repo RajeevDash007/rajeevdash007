@@ -1,7 +1,7 @@
 [![MasterHead](https://cutshort.io/blog/wp-content/uploads/2018/04/bd1e5c2457278a37313c55ce8c887aa3.jpg)](https://rajeevdash007.github.io/RajeevLochanDash/)
 <h1 align="center">Hi 👋, I'm Rajeev Lochan Dash</h1>
 <h3 align="center">Aspiring Full Stack Developer | Experienced in MERN | ex-Full Stack Intern at PDS and Sigma|🥇 in institute at GeeksforGeeks</h3>
-![](https://komarev.com/ghpvc/?username=RajeevDash007&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=RajeevDash07&abbreviated=true)
 
 # 💫 About Me:
 🔭 I’m currently working on Open Source Projects<br><br>🌱 I’m currently learning Tauri and Electron<br><br>👨‍💻 All of my projects are available at https://rajeevdash007.github.io/RajeevLochanDash<br><br>📫 How to reach me rajeevdash07@gmail.com<br><br>
