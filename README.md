@@ -1,4 +1,4 @@
-[![MasterHead](https://cutshort.io/blog/wp-content/uploads/2018/04/bd1e5c2457278a37313c55ce8c887aa3.jpg)](https://rajeevdash007.github.io/RajeevLochanDash/)
+[![added.gif](https://i.postimg.cc/bwHd5yrt/added.gif)](https://rajeevdash007.github.io/RajeevLochanDash/)
 <h1 align="center">Hi 👋, I'm Rajeev Lochan Dash</h1>
 <h3 align="center">Ex-Full Stack Contributor @AFFiNE | Web Dev Lead at @ACM-XIM & CAS | Experienced in MERN | 🏅 in institute at GeeksforGeeks</h3>
 
