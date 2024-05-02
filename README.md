@@ -1,4 +1,4 @@
-[![added.gif](https://i.postimg.cc/bwHd5yrt/added.gif)](https://rajeevdash007.github.io/RajeevLochanDash/)
+[![added-ezgif-com-optimize.gif](https://i.postimg.cc/0jxcHx9t/added-ezgif-com-optimize.gif)](https://rajeevdash007.github.io/RajeevLochanDash/)
 <h1 align="center">Hi 👋, I'm Rajeev Lochan Dash</h1>
 <h3 align="center">Ex-Full Stack Contributor @AFFiNE | Web Dev Lead at @ACM-XIM & CAS | Experienced in MERN | 🏅 in institute at GeeksforGeeks</h3>
 
